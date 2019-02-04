@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">finaltestFragment</string>
+    <string name="category_main">Gaza</string>
+    <string name="category_tourism">Tourism</string>
+
+    <string name="main_title">Gaza</string>
+    <string name="main_paragraph" formatted="true"> Gaza, is a self governing Palestinian territory.</string>
+    <string name="second_main_title">UnKnown Soldier Square</string>
+    <string name="second_main_paragraph"> UnKnown Soldier Square</string>
+    <string name="tourism_title_mosque">The Great Mosque</string>
+    <string name="tourism_paragraph_mosque">The Great Mosque</string>
+    <string name="tourism_title_church">Saint Porphyrius Church</string>
+    <string name="tourism_paragraph_church">Saint Porphyrius Church</string>
+    <string name="tourism_title_basha">Napoleon’s Fort</string>
+    <string name="tourism_paragraph_basha">Napoleon’s Fort</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
